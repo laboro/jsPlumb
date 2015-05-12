@@ -1,0 +1,33 @@
+{
+  "name": "oro/jsplumb",
+  "description": "jsPlumb provides a means for a developer to visually connect elements on their web pages.",
+  "keywords": ["javascript", "svg", "visual", "connectivity"],
+  "type": "component",
+  "homepage": "http://jsplumb.org/",
+  "license": [
+    "MIT",
+    "GPL-2.0"
+  ],
+  "support": {
+    "issues": "https://github.com/sporritt/jsPlumb/issues",
+    "source": "https://github.com/sporritt/jsPlumb"
+  },
+  "authors": [
+    {
+      "name": "Simon Porritt",
+      "email": "hello@jsplumbtoolkit.com"
+    }
+  ],
+  "extra": {
+    "component": {
+      "scripts": [
+        "dom.jsPlumb.js"
+      ],
+      "files": [
+        "dom.jsPlumb.min.js",
+        "jquery.jsPlumb.js",
+        "jquery.jsPlumb.min.js"
+      ]
+    }
+  }
+}
