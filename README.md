@@ -4,7 +4,7 @@ Shim [repository](https://github.com/laboro/jsPlumb) for the [jsPlumb](http://js
 
 Package Managers
 ----------------
-[Composer](https://packagist.org/packages/laboro/jsPlumb): oro/jsplumb
+[Composer](https://packagist.org/packages/oro/jsplumb): oro/jsplumb
 
 ## jsPlumb
 jsPlumb provides a means for a developer to visually connect elements on their web pages. It uses SVG or
